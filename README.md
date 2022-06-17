@@ -1,6 +1,6 @@
 Modified by OniMooni for AvocadoDudes!
 
-orginal Contract by HashLips, give his profile a shot!
+//orginal Contract by HashLips, give his profile a shot!
 
 # Welcome to HashLips 👄
 
@@ -41,7 +41,7 @@ To make use of the NFT smart contract, simply copy the `SimpleNft_flat.sol` file
     of the code. That being said, the code has been tested
     to the best of the developers' knowledge to work as intended.
 
-That's it! you're done.
+That's it! you're done.//
 
 
 Modified by OniMooni.
