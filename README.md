@@ -27,6 +27,10 @@ Disclaimer:
 
 
 
+\(**)/
+
+
+
 //orginal Contract by HashLips, give his profile a shot!
 
 # Welcome to HashLips 👄
