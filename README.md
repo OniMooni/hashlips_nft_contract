@@ -1,10 +1,12 @@
-# Welcome to HashLips 👄
+Modified by OniMooni for AvocadoDudes!
 
-![](https://github.com/HashLips/hashlips_nft_contract/blob/main/logo.png)
+orginal Contract by HashLips, give his profile a shot!
+
+# Welcome to HashLips 👄
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-Modified by OniMooni.
+
 
 To find out more please visit:
 
@@ -40,3 +42,6 @@ To make use of the NFT smart contract, simply copy the `SimpleNft_flat.sol` file
     to the best of the developers' knowledge to work as intended.
 
 That's it! you're done.
+
+
+Modified by OniMooni.
