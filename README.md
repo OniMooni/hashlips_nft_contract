@@ -13,9 +13,9 @@ Disclaimer:
     
  Code Changes:
  
- Automatical Payout
- Percentage of sales commission for every sale on the blockchain after the first
- performance optimization
+ Automatical Payout.
+ Percentage of sales commission for every sale on the blockchain after the first.
+ performance optimization.
  
  
  
